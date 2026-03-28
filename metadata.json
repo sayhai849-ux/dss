@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard.Pro 分镜视频制作工具",
+  "description": "半自动化分镜制作工具，支持 CSV/Excel 导入，自动解析分镜内容，支持图片与视频预览及导出。",
+  "requestFramePermissions": []
+}
